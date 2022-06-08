@@ -12,7 +12,7 @@
         "php": ">=7.3",
         "hashids/hashids": "^1.0",
         "illuminate/database": "^9.2",
-        "illuminate/support": "^9.2",
+        "illuminate/support": "^9.17",
         "ramsey/uuid": "^4",
         "hanneskod/classtools": "dev-feature/allow-finder-v6.x as 1.2.1"
     },
