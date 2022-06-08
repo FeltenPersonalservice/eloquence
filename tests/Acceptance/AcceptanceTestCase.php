@@ -7,7 +7,7 @@ use Orchestra\Testbench\TestCase;
 
 class AcceptanceTestCase extends TestCase
 {
-    public function setUp(): void
+    protected function setUp(): void
     {
         parent::setUp();
 
